@@ -5,7 +5,7 @@ const data = {
   subtitle: 'Our Equilibrium collection promotes balance and calm.',
   price: '0.041 ETH',
   time: '3 days left',
-  author: 'Jules Wyvern',
+  author: 'Josh Holloway',
 };
 // ==============================================
 
