@@ -10,7 +10,8 @@ const useScreen = () => {
   const isMobile = () => {
     const reg = /(\d+)/;
 
-    const _break = Number(css.get('break').match(reg)[0]);
+    // const _break = Number(css.get('break').match(reg)[0]);
+    const _break = 1200; // css/_breakpoints.scss
 
     // console.log('w: ', w, '\n_break: ', _break, '\nw > _break: ', w > _break);
 
